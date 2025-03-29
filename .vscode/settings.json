@@ -1,0 +1,7 @@
+{
+    "cmake.sourceDirectory": "C:/Users/Administrator/Documents/PlatformIO/Projects/ARDUINO/lib/esp-dsp-master",
+    "files.associations": {
+        "algorithm": "cpp",
+        "cmath": "cpp"
+    }
+}
